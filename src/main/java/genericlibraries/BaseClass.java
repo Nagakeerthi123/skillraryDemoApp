@@ -42,7 +42,7 @@ public class BaseClass
 		
 		     
 		     property.propertyFileInitialization(IConstantpath .PROPERTIES_FILE_PATH);
-		     excel.excelInitialization(IConstantpath .EXCEL_FILE_PATH);
+		     excel.excelInitialization(IConstantpath.EXCEL_FILE_PATH);
 		     
 	       }
 
